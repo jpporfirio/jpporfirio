@@ -3,7 +3,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-porfirio-987142223/)
 
-![jpporfirio GitHub stats](https://github-readme-stats.vercel.app/api?username=jpporfirio&show_icons=true&theme=transparent)
+
+<div align="center">
+  <a href="https://github.com/jpporfirio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpporfirio&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpporfirio&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mi-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Mi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Mi-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
+
+</div>
 
 ## Tecnologias que uso
 
